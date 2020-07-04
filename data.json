@@ -1,0 +1,34 @@
+{
+  "gumroadProductURL": "https://gum.co/SsirX",
+  "name": "Marko Jak",
+  "subtitle": "Growth and Product Hacker Repeat",
+  "about": "I'm a Growth and Product guy building things 👨‍💻 in Healthcare in Amsterdam Netherlands. 🇳🇱 -- This is my page where you can support my work and my writing on business 🤑, philosophy 🤔 and healthcare 💊",
+  "profileImage": "marko.jpg",
+  "links": [
+    {
+      "name": "Open Source Projects",
+      "link": "https://github.com/mddanishyusuf",
+      "type": "github",
+      "category": "work"
+    },
+    {
+      "name": "Open Source Projects",
+      "link": "https://mohddanish.me/projects",
+      "type": "projects",
+      "category": "work"
+    },
+    {
+      "name": "Let's Connect",
+      "link": "https://twitter.com/mddanishyusuf",
+      "type": "twitter",
+      "category": "social"
+    },
+    {
+      "name": "ProductHunt",
+      "link": "https://www.producthunt.com/@mddanishyusuf",
+      "type": "producthunt",
+      "category": "social"
+    }
+  ],
+  "thanksNote": "I'm sending some ♥️ from Netherlands. Thanks again for coffees."
+}
